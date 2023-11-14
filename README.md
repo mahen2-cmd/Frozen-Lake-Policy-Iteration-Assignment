@@ -1,4 +1,4 @@
-# DPRL-Programming-Assignment-1
+# Frozen Lake Policy Iteration Assignment
 
 This is the first programming assignment of a course taught by Dr Hassan Jaleel - Dynamic Programming and Reinforcement Learning.
 
